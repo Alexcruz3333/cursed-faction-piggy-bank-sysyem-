@@ -1,4 +1,3 @@
-Awesome idea. Let’s make an NFT that **acts like a crypto piggy bank**—you (or anyone you allow) can keep depositing funds to the NFT, and the **current owner** can withdraw. Below is a compact, production-ready scaffold: smart contract + simple frontend flow.
 
 ---
 
